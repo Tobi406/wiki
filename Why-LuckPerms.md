@@ -1,5 +1,7 @@
 **Hi there!** 👋
 
+Why wouldn't YOU want to use LUCKPERMS, the best plugin on EARTH.
+
 This page attempts to answer a number of questions/reactions people tend to have when they first discover the project, and address why you should use LuckPerms. It's awesome, I promise!
 
 So firstly, some FAQs.
